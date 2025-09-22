@@ -34,3 +34,5 @@ Successfully installed asgiref-3.9.1 django-5.2.6 sqlparse-0.5.3 tzdata-2025.2
 
 <img width="1347" height="310" alt="image" src="https://github.com/user-attachments/assets/b677120f-fd17-4f37-8cb7-1198fa2c1765" />
 
+<img width="1920" height="1042" alt="image" src="https://github.com/user-attachments/assets/db5119ce-f8ea-4ae3-8eb8-0085afeb477b" />
+
